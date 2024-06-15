@@ -10,7 +10,7 @@
   - 🧠 Ml5.js
   - 🎢 GSAP
 
-Stay tuned & feel free to frop a line:
+Stay tuned & feel free to drop a line:
 eleonora.drykina@gmail.com
 
 she/her, they/them
