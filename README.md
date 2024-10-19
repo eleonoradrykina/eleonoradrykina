@@ -3,12 +3,10 @@
 
 #### ✨ I'm currently learning: ✨
 
-  - ⚛️ React
-  - ⛰️ Three.js
+  - ⚛️ React & React Native
+  - ⛰️ Three.js & GLSL
   - 🔌 Websockets
   - 🦾 Arduino
-  - 🧠 Ml5.js
-  - 🎢 GSAP
 
 Stay tuned & feel free to drop a line:
 eleonora.drykina@gmail.com
