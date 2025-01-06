@@ -3,10 +3,11 @@
 
 #### ✨ I'm currently learning: ✨
 
-  - ⚛️ React & React Native
-  - ⛰️ Three.js & GLSL
-  - 🔌 Websockets
-  - 🦾 Arduino
+  - ⚛️ React & Next.js
+  - ⛰️ Three.js & R3F
+  - 🌫️ Shading Languages
+
+elu.sh
 
 Stay tuned & feel free to drop a line:
 eleonora.drykina@gmail.com
