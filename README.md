@@ -3,7 +3,7 @@
 
 #### ✨ I'm currently learning: ✨
 
-  - ⚛️ React & Next.js
+  - ⚛️ React & Remix
   - ⛰️ Three.js & R3F
   - 🌫️ Shading Languages
 
