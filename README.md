@@ -7,12 +7,10 @@
   - ⛰️ Three.js & R3F
   - 🌫️ Shading Languages
 
-elu.sh
-
 Stay tuned & feel free to drop a line:
 eleonora.drykina@gmail.com
 
-she/her, they/them
+
 
 
 
