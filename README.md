@@ -1,13 +1,5 @@
 ### 👋 Hey! My name is Eleonora
-#### 💅🏼 I study development and creative coding @ DEVINE in Belgium
 
-#### ✨ I'm currently learning: ✨
-
-  - ⚛️ React & Remix
-  - ⛰️ Three.js & R3F
-  - 🌫️ Shading Languages
-
-Stay tuned & feel free to drop a line:
 eleonora.drykina@gmail.com
 
 
